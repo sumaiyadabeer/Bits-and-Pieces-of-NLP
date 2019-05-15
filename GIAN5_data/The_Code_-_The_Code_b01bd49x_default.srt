@@ -1,0 +1,382 @@
+As a mathematician, I see the world differently.
+Numbers, shapes, and patterns are everywhere.
+Together, they make up a hidden mathematical world,
+a code that has the power to reveal the inner workings
+of life, the universe, and everything.
+Here in California, beekeeper Steve Godlin is taking me
+to see one of the greatest mysteries in nature.
+That's one of the wonders of the natural world.
+It's beautiful!
+  This almost looks man made, manufactured.
+  Yeah.
+It doesn't look like something from the natural world.
+The precision, the fine straight lines they've created.
+The bees' honeycomb is a marvel of natural engineering.
+It's a place to raise their young, and to store their food,
+and it's all made from wax,
+for them to produce.
+Every cell is identical.
+Six walls, all the same length,
+meeting at exactly 120 degrees.
+The cross section is a perfect six sided polygon,
+the hexagon.
+With a myriad of natural shapes to choose from,
+why have the bees selected
+this complex geometric structure?
+The answer comes from the bees' need to economise.
+The problem they have to solve is how to create their comb,
+using as little precious wax as possible.
+If they want to produce a network of regular shapes,
+which fit together neatly,
+them you really only have three options.
+You can do equilateral triangles,
+or you could do squares,
+or you can do the bees' hexagons.
+But why, of those three, does the bee choose the hexagons?
+It turns out that the triangles actually use much more wax
+than any of the other shapes.
+Squares are a little better.
+But it's the hexagons that use the least amount of wax.
+It took human mathematicians until 1999 to prove the hexagonal array
+was the most efficient possible solution to this problem.
+Yet, with a little help from evolution,
+the bees worked it out for themselves millions of years ago.
+Perfect hexagons!
+It's easy to see why the hexagon is important to the bees.
+But how on earth do these hard working creatures,
+with a brain smaller than a sesame seed,
+create the shapes with such precision?
+For that, we need to have a look
+at some of the laziest structures around.
+The soap bubble reveals something fundamental about nature.
+It's lazy. It tries to find the most efficient shape,
+the one using the least energy,
+the least amount of space.
+The sphere is one surface, no corners, infinitely symmetrical.
+When bubbles are on their own, they always try to be spheres,
+but when you start packing them together, their geometry changes.
+The bubbles are incredibly dynamic.
+They're always trying to assume the most efficient shape.
+The one that uses the least energy.
+But if we make each of the bubbles the same size,
+a rather magical shape starts to appear.
+The hexagon.
+This leaves the bees with a very simple way to build their honeycomb.
+All they need to do is build a cylinder of wax,
+and nature will do the rest.
+It's thought that the wax, warmed by their bodies,
+pulls itself into the most efficient configuration.
+When we see that pattern at the heart of the beehive,
+it is, in fact, echoing some of the fundamental laws of the universe.
+This drive to efficiency can be seen written throughout nature.
+It's this hidden geometric force
+that makes the world the shape it is.
+At the heart of the mathematical world, lie numbers.
+They give us the power to describe, measure,
+and count everything in the universe.
+But, numbers aren't always what they seem.
+Take, for example, negative numbers.
+It's impossible to trade anything, stocks, shares, currency,
+even fish, without negative numbers.
+Most of us are comfortable with them.
+Even though we may not like it,
+we understand what it means to have a negative bank balance.
+But, when you start to think about it,
+there's something deeply strange about negative numbers.
+They don't seem to correspond to anything real at all.
+The deeper we look into the mathematical world of numbers,
+the weirder it becomes.
+It's easy to imagine one fish,
+or two fish,
+or no fish at all.
+It's much harder to imagine what minus one fish looks like.
+Negative numbers are so odd that, if I have minus one fish,
+and you give me a fish,
+all you can be certain of is that I've got no fish at all.
+The strange, and powerful thing about numbers,
+is that they can exist in the mathematical world,
+whether or not they seem to make sense in the real world.
+Some numbers are so strange,
+they seem to defy even the laws of mathematics.
+This is one of the most basic facts of mathematics.
+A positive number, multiplied by another positive number
+is a positive number.
+For example, one
+times one
+is one.
+A negative number, multiplied by another negative number,
+also gives a positive number.
+Whenever the signs are the same, the product is always positive.
+However, in the code,
+there's a special number which breaks this rule.
+When I multiply it by itself, it gives the answer minus one.
+This isn't a number I can calculate.
+I can't show you this number.
+Nevertheless, we've given this number a name. It's called "i",
+and it's part of a whole class of numbers called imaginary numbers.
+Introducing these strange new numbers into mathematics
+required an act of the imagination.
+But, despite their strange properties,
+they turn out to have some very practical applications.
+Air traffic control relies on radar to track planes accurately
+during their passage through the air.
+Complex computation is required to decode these signals,
+and distinguish moving objects, like planes,
+from the stationary background.
+At the heart of that analysis lies i,
+the number that cannot exist.
+You could do these calculations with ordinary numbers.
+But they're so cumbersome, by the time you've done the calculation,
+the plane's moved to somewhere else.
+Altitude 6,000, on a squawk of 7715.
+Using imaginary numbers makes the calculation so much simpler.
+You can track the planes in real time.
+In fact, without them,
+radar would be next to useless for air traffic control.
+Although i is an imaginary number,
+I trust my life to it, every time I get in an aeroplane.
+As strange as it may seem, that's because even the so called
+imaginary bits of mathematics can be used to explain, control,
+and accurately predict the real world.
+You might think that catching criminals is all about
+finding physical evidence.
+Fingerprints, DNA.
+But, even when these clues aren't available,
+a mathematical fingerprint is left behind.
+In 1888, the most notorious serial killer of all,
+Jack the Ripper, murdered five women in London's East End.
+He was never caught.
+Kim Rossmo has 20 years' experience as a detective inspector,
+and he specialises in catching serial killers.
+Although very rare, these criminals are notoriously hard to track down,
+because they often murder strangers
+in locations they have no obvious connection to.
+It's very common,
+in the investigation of a serial murder case,
+to have hundreds, thousands, even tens of thousands of suspects.
+It's a needle in a haystack problem.
+But Rossmo is no ordinary cop.
+Because he's a brilliant mathematician,
+and uses numbers to understand the patterns criminals leave behind.
+There's logic in how offenders hunt the victim,
+and where they commit the crime.
+If we can decode that, and if we can understand that pattern,
+we can use that information to help us focus a criminal investigation.
+To this day, no one has been able to identify
+just who Jack the Ripper was, or where he lived.
+But, based purely on the locations the murders took place,
+Rossmo thinks he COULD have tracked him down.
+Because he's noticed patterns in criminal behaviour
+that are as distinctive as a fingerprint.
+And he turned them into a mathematical formula,
+based on probability.
+This formula calculates the likelihood
+that a criminal lives at a specific location,
+based solely on where the crimes took place.
+The first half models what's known as "the least effort principle".
+Inherently, we're all lazy,
+and criminals just as much as anyone else.
+They want to accomplish their goals closer to home,
+rather than further away.
+The probability gradually decreases
+the further you get from the crimes.
+The second half of the equation
+describes something called "the buffer zone".
+Criminals avoid committing crimes too close to home,
+for fear of drawing attention to themselves.
+It's the interaction of these two behaviours
+that allows Rossmo to calculate the most probable location
+of the criminal's home.
+So, naturally, I was very interested in what would happen
+if I entered the locations of the five linked crimes
+into the equation.
+With a computer programme based on his formula, Rossmo is creating
+a geographic profile to show the hotspots where the Ripper
+was most likely to have lived.
+It was this geographic profile that led us here,
+to Flower & Dean Street.
+Flower & Dean Street should have been the epicentre of their search.
+Do you think if you'd been alive at the end of the 19th century,
+and you'd had this equation, this guy might have been found?
+Knowing what we know today of serial killers,
+and with modern forensic techniques such as DNA,
+I'm pretty sure Jack the Ripper WOULD have been caught,
+if he was committing his crimes today.
+We may never know the truth about Jack the Ripper,
+but Rossmo's technique of geographic profiling
+has been used time and time again to help police all over the world
+narrow their search, from an entire city, to just a handful of streets.
+And at its heart lies pure mathematics.
+With the world's fish stocks under pressure, it's vital for us
+to find out as much about their populations as we possibly can.
+But with so many fish out there, it seems an impossible task.
+Yet using mathematics, I can discover things
+about the inhabitants of our oceans without even getting my feet wet.
+I started fishing in Brighton in 1972.
+Been a fisherman for 40 years, catching Dover sole.
+That's the main target species for the English Channel.
+Each time he goes out fishing,
+Sam Brenchley catches Dover sole of all different shapes and sizes.
+And by tapping into the power of mathematics, I can predict
+a weight for the largest fish Sam has caught in his entire career.
+All I need to do is get my hands on today's catch.
+That's 180 grams.
+'Even though I've only got a handful of fish,
+'their weights will give me all the information
+'I need for my prediction.'
+She's back! Now using these numbers, I can calculate
+that the largest one should be about 1.3 kg, which is roughly 3 lbs.
+'I've not weighed a single fish anywhere near that size
+'so let's see if I'm right.'
+What's the largest Dover sole you've caught in your career?
+We call them doormats, the large ones.
+And...you maybe get four or five a season.
+The largest I would say is 3 to 3.5 lbs.
+It's always nice to catch big stuff, you know? Well, I think it is anyway.
+So without ever getting my hands on one of these giant doormats,
+just how did I work it out?
+Now, the reason this compilation is possible is because the distribution
+of the weights of fish, in fact the distribution of lots of things
+like the height of people in the UK or IQ, is given by this formula.
+This is the normal distribution equation
+and it's one of the most important bits of mathematics
+for understanding variation in the natural world.
+And it describes the shape of a graph that pops up time
+and time again throughout nature, the bell curve.
+The area under the curve represents all the fish Sam's ever caught.
+Most of them will be an average size.
+The small tiddlers and large doormats are much less likely.
+To put values to this graph, I just need two bits of information,
+the mean shows me where the centre of the bell curve lies
+and a standard deviation shows me the range of the weights.
+I approximated both of these just by weighing Sam's catch.
+Together, they allowed me to estimate values for all
+the fish he's ever caught, from the smallest to the largest.
+Knowing the weight of Sam's largest fish might not seem important.
+But this technique allows us to discover things about all manner
+of populations by measuring just a small sample.
+And from biology to medicine and even engineering,
+the bell curve gives us
+the power to make predictions about our world and everything in it.
+Right now, across the planet, people are unconsciously building
+one of the largest databases in the world.
+Every time we go online,
+whether it's to check an e mail or find something out,
+we're all adding to an already overwhelming mass of information.
+A random jumble of data about our inner thoughts, interests
+and future plans.
+Yet when we start to look closely at all this complexity,
+surprising patterns begin to emerge...
+..patterns that can reveal things about our future
+and even save lives.
+With over 91 million web searches a day,
+Google have access to a constantly updating stream of information.
+Our random search entries might seem useless at first
+but they found ways to tap into this data.
+Think of all the things people might search for on a daily basis.
+Think of the things that YOU might search for on a daily basis.
+You, I've searched for a couple of cities in Mexico
+and films in Hackney today.
+Lots of people may be searching for a similar thing,
+movies and Hackney for example.
+And you can see if you look at that query over the past three years,
+what would the pattern of searches for that term look like?
+Their researchers had a hunch
+that if they could decode people's searches,
+they'd be able to make predictions about the real world.
+And they decided to test their theory
+with the global killer influenza,
+a virus that's responsible for hundreds of thousands
+of deaths every year.
+So, flu has a nice, seasonal pattern
+and because it has that pattern every year, over many years,
+we're able to take that trend and say
+which search queries match that pattern.
+Although flu tends to come back year after year,
+it's very hard to predict exactly when and where it's going to strike.
+If we knew, hospitals, doctors
+and health organisations across the world could better prepare.
+So the team analysed the pattern of every search term
+in their database from the last five years,
+looking for those that appeared more frequently during flu outbreaks.
+And unsurprisingly, when people had flu,
+there was an increase in flu related searches.
+So people were searching for things like symptoms
+or medications or sore throat.
+There are other things like complications.
+But what no one expected was that this correlation would be so exact.
+Flu related terms rose and fell perfectly in line
+with real life flu outbreaks.
+There's an accurate data of flu activity based
+on lots of people searching for these terms.
+We were amazed by this finding.
+This allowed them to build a model based solely on search terms
+that could reliably detect and predict
+the presence of flu epidemics in real time.
+Google flu trends can spot an outbreak of flu before people
+have even gone to the doctor.
+Just 20 years ago, these kinds of predictions were unthinkable.
+The data just didn't exist.
+But flu trends proves that the vast quantity of seemingly random data
+created by our increasingly connected lives isn't useless.
+Using mathematics, we can make sense of it
+and create tools with the power to save lives.
+Mathematics reveals itself in some spectacular ways,
+from the bees' honeycomb
+and the hexagonal snowflake
+to these remarkable salt crystals.
+But these are the rare exceptions.
+Most of the natural world is complex and seems random.
+It's hard to believe that we could use mathematics
+to explain all this apparent chaos.
+But even things that look disordered like these trees
+do have a hidden mathematical order.
+Now the reason the tree makes this shape
+is because it wants to maximise the amount of sunlight it gets.
+Very clever but also very simple
+because you just need one rule to create this shape.
+And it's easy to demonstrate this rule using computer graphics.
+Grow a bit, then branch. Grow a bit, then branch.
+Repeat this one rule time and time again and before our eyes,
+a mathematically perfect tree appears.
+And allow for some natural variations, different seasons,
+the wind and occasional accidents,
+and the result is a very real looking tree.
+You can imagine this rule repeating itself for ever,
+branching into infinity.
+In the 1970s, French mathematician Benoit Mandelbrot
+set about studying these hypnotic computer generated patterns.
+Just like a tree, they were created from one very simple rule,
+set up to repeat itself time and time again.
+But these shapes go on for ever, creating infinite complexity.
+It's a property known as fractal.
+Mandelbrot believed that fractals could be used to describe
+many of the seemingly random shapes we see in the natural world.
+And the most powerful demonstration of that belief
+comes not from mathematics or nature but from the world of make believe.
+Over 30 years ago, Loren Carpenter made it two minute film
+that would revolutionise the world of animation.
+This is a little film I made in 1980.
+  That doesn't look very natural.
+  No, it's very pyramid like.
+What we're going to do is take each of these big triangles and break it up into little triangles
+and break those little triangles up into littler triangles.
+What Loren had realised was that he could use
+the mathematics of fractals to turn just a handful of triangles
+into realistic virtual worlds.
+We went from about 100 triangles to about five million.
+We turned the fractal process loose and instantly it looks natural.
+And here's that fractal quality, this infinite complexity at work.
+That's exactly what I wanted, yeah.
+By today's standards, this animation doesn't look like much
+but in the 1980s, no one had seen anything like it before.
+Loren Carpenter had used fractals to revolutionise computer graphics.
+It was because of this one short film that Loren went on to co found
+one of the most successful film studios in the world, Pixar.
+This empire of cars and monsters
+and toys, was built on the power of fractals.
+And fractals are still used at Pixar today.
+They create the surface of rocks, the texture of clouds
+and bring the trees and forests alive.
+The fact that these virtual worlds are so realistic demonstrates
+the power of mathematics to describe the infinite complexity of nature.

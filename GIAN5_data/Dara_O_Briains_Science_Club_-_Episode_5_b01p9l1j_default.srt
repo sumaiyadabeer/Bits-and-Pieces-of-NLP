@@ -1,0 +1,1049 @@
+Let me tell you a story about a man called Dante Autullo.
+He lives in Illinois, he's 34 years old,
+and a couple of years ago, he was doing some DIY around the house with a nail gun, as you do,
+he fired a nail into his own brain.
+But he never realised, because the brain has no pain receptors.
+He had a nosebleed and the following day he felt a bit nauseous,
+and his girlfriend said, "You should get that checked out."
+So he went to a doctor and they showed him the X ray, and he simply didn't believe them.
+We know this because he found time to post the X rays to Facebook
+in the ambulance on the way to the hospital.
+Ah, the brain! The most mysterious object in the universe,
+but it can still make you behave like a bit of an idiot.
+I'm Dara O'Briain, welcome to Science Club.
+So, welcome to our show, which takes one major topic each week
+and looks at it from every angle to see what we can learn.
+As ever, we have our curious audience and illustrious guests  
+this week, neuroscientist and developmental psychologist Uta Frith. Welcome.
+Our regular reporters, Alok Jha, Helen Czerski and Tali Sharot.
+  Our very special guest   Jessica Hynes. Jessica, how are you?
+  Very well.
+  Good stuff.
+Now, on the show tonight, we're looking at the human brain,
+peering into the mass of grey and white matter
+to find out the latest thinking about...thinking.
+Through the media of filmed reports and experiments,
+we'll endeavour to understand where we're at with this most complex but fundamental organ.
+Dr Helen Czerski travels to the US to discover amazing, cutting edge brain research.
+  And so, do you feel that you're one step closer to being able to mind read?
+  Yes.
+Reporter Alok Jha finds out about smart drugs
+which seem to maximise our cleverness, and asks whether we should all be taking them.
+I'm really tempted to try one.
+And 2012 actor Jessica Hynes undergoes memory testing
+and literally sees what's going on in her head.
+I'm looking forward to having a picture of my brain!
+And later, Prof Mark Miodownik will be putting a brain in a blender.
+All in the name of science, of course.
+If you want to get involved with the show or follow us on Twitter,
+the details are on your screen.
+Very good, OK.
+But first, let's meet our science guru,
+neuroscientist and developmental psychologist, a Fellow of the Royal Society,
+Emeritus Professor of Cognitive Psychology at UCL,
+please welcome Uta Frith!
+  How are you?
+  Hello.
+  Nice to have you here. Welcome.
+Uta, over the course of your long and distinguished career,
+you've changed the direction of the stuff that you've been doing
+because what we know about the brain has changed,
+and the technology with which we learn about the brain has changed.
+  almost unrecognisably, since you started.
+  You're absolutely right.
+When I started being interested in psychology,
+and also in how the brain creates the mind,
+all we had at the time was really looking at
+people who had some kind of brain damage.
+Eventually, sort of from the 1990s,
+we were able to see the living, thinking, feeling brain.
+  So it all came about because of the invention of MRI scans?
+  Absolutely.
+  A fabulous invention.
+  So, the amount of information you had, because...
+Listen, I've seen these textbooks about Phineas Gage,
+the man who fell onto a spike and it went through his brain,
+was the proof that personality is contained in the brain.
+That was important information that we had.
+But it was abnormal situations like that were how we knew what happened in the brain.
+Exactly. And we are waiting for more technological breakthroughs so that we can see even better.
+More exact in what we see. OK, we're going to talk about many of the topics it raised here,
+but it's worth taking that historical overview.
+For many years, finding out about the brain just involved looking at,
+measuring it, trying to make assumptions on that basis,
+but since the advent of MRI scanners, we started to understand its innermost secrets.
+This is what we used to think.
+A long time ago, when the Greeks had money and dressed in sheets,
+it was thought that thinking came from a kind of internal self,
+what the Romans later called the homunculus, the little man.
+No one suspected that thinking happened in the brain.
+It was just so dull.
+Instead, it was the more exciting internal organs, like the heart,
+the liver and the spleen that were marked out
+as the essential parts of thought, reason and emotion.
+Complete nonsense, of course, but progress was slow,
+because for a long time, dissection was banned by the Church.
+Eventually, however, it was noticed that the eyes are connected to
+the dull, wobbly parts inside our heads, and that, in turn,
+it was connected to the rest of the body
+by a stringy network of wiry structures   the nervous system.
+By the 18th century,
+an Italian called Luigi Galvani
+had discovered that the wiry bits carried electricity,
+which operated muscles.
+This he endlessly demonstrated by attaching frogs' legs to a battery.
+It was now clear that the brain actually has an important job to do,
+controlling the body with electricity.
+Gradually, physicians started paying more attention to the brain.
+They noticed that injuries to specific parts of it
+would affect specific abilities.
+Injuries changed the ability to smell, hear or speak.
+Accidents revealed a lot about how the brain worked,
+but well meaning surgeons showed even more.
+A severely epileptic American was treated by such a surgeon,
+who scooped out the part of his brain called the hippocampus.
+The fits stopped,
+but so did patient's ability to form new memories.
+The brain, it turned out, is responsible for memory.
+All of a sudden, scientists were all over the brain, probing it,
+recording electrical activity.
+One of them, Wilder Penfield, made a map of the brain
+by poking about in the brains of conscious patients.
+He produced the sensory homunculus,
+an image of how the brain senses the body. It was also discovered that our brain
+is responsible for us being conscious, or unconscious,
+and that it's responsible for us being aware of being conscious,
+our consciousness. It was also found that the way the brain works
+can be altered using drugs,
+and that there's another part of our brain that's running the show  
+our subconscious  
+and that means that our brain knows what we're going to do before we do.
+It's almost as though
+we're being controlled by another version of ourselves.
+Traditionally, the brain is compared to
+the most impressive technology available.
+In the past, it would have been a kind of complicated steam engine,
+an electronic telephone exchange, and a microprocessor.
+Today, the brain is presented as being a bit like the internet.
+Tomorrow, who knows?
+The fact is, no one actually knows exactly how the brain works,
+but at least we now know where to look.
+So, in many ways, we've just stepped onto the moon,
+we've just started that journey, essentially,
+when it comes to finding out what's happening in the brain.
+Explain to me the way it's different from other organs. I'm intrigued by this.
+The lungs, for example,
+it's like a series of corridors that lead to smaller and smaller corridors,
+that lead to rooms that perform a discrete job.
+The heart has its valves.
+The brain seems more like a continuum, like a large hall.
+  Like an orchestra.
+  Is that how it is?
+And all of these parts of the brain can adopt functions
+  from other parts of the brain?
+  To some extent.
+I think we don't know quite the limits of how they could do absolutely everything.
+I think there are some that are very much more specialised than others.
+The main job of the brain is, really, to keep us upright,
+keep us from falling over,
+maintain our breathing,
+all sorts of things that we are not at all aware of,
+but they are very heavy duty tasks, jobs,
+that you need a brain for.
+  In fact, perhaps we should look at the brain.
+  We have brains here.
+  It is so tempting.
+  I love the way we have essentially put it on a cake stand.
+I know! It is absolutely amazing.
+I really love holding it, because it is the weight of a...
+That, by the way, is not, I presume, a brain.
+That's a new type of surgical training device.
+Yes, and it feels nice and cool and sort of jellylike,
+and that's always how I imagine the brain to be,
+except, it is nearly always liquid when you really see it,
+and you have to do something to it to make it fixated.
+  So the grey mass that we see is something that we have treated?
+  Yes, it has to be treated,
+otherwise it will just sort of liquefy very soon.
+But it's a really, really beautiful structure. It's really amazing.
+This is, of course, underneath here, is the cerebellum,
+which is often hidden from view,
+and yet, it's probably a structure of the brain
+that's just...active and used in almost everything we do.
+Absolutely everything.
+It used to be thought it was especially to do with movement,
+movement control, but, in fact,
+it turns out to be kind of the brain's computer.
+The cerebellum is very, very important, and we share this cerebellum.
+It's the same structure in other animals.
+Now, we're going to keep coming back to that for reference.
+Yeah, you're right. It is very pleasant.
+I'm getting the calming effect of touching it.
+We were saying about how the brain has evolved to do with the environment that we are in,
+and at different stages, we have, to a certain extent,
+passed on duties to technology that we previously had the brain doing.
+We invented writing and printing, and that stops us having to memorise tracts...
+That's a perfect example of incredible niche construction,
+of this sort of cleverness...
+  of the brain, that we can outsource...
+  We can outsource certain parts of it.
+  The obvious example now is mobile telephones, smart computers.
+  Yes.
+To a certain extent, we've freed up other skills because of this.
+The example that someone has given us, 20 years ago,
+we would all have known the telephone number of our partner's workplace...
+  Now we just... One click.
+  We know it's kept for us...
+It's all rubbish that we don't need to bother...
+  So we basically passed a job on to technology at different stages.
+  Yes.
+19 million of us own these smartphones, by the way,
+but how many of us actually know how they work?
+We'll be back to this fabulous beauty in a second.
+Just in terms of the way we pass these things on,
+Mark Miodownik has been taking a smartphone apart.
+The invention of the telephone changed the way we're connected to each other,
+but it was a physical connection, and so engineers dreamed
+of severing that connection,
+of creating a phone you could use anywhere, any place,
+and the realisation of that dream was this, the mobile phone.
+Since it came on the scene some 30 years ago,
+it's transformed the way we communicate.
+But now it's become so much more
+than merely a way to connect to each other.
+It's changed the way we entertain ourselves,
+the way we read and write, and even how we get up in the morning,
+and all in something the size of a cassette tape.
+And now there's evidence that it's even affecting the way we use our brains.
+The smartphone   you're very likely to have one of these in your pocket.
+You may even be watching this on it.
+But how does something so small do so much?
+Smartphones are masters of miniaturisation,
+apart from the battery, which still takes up most of the room.
+But packed around it are microphones, speakers, a processor,
+a SIM card, and let's not forget the antenna,
+which makes it all mobile.
+Of course none of this would matter if you couldn't tell when your phone rings,
+and it does that using the main speaker,
+or by this nifty little gadget. Let me show you.
+Of course, that means you can have your phone on silent.
+Because they're so good at connecting us,
+smartphones are well on their way to becoming
+the fastest spreading technology in human history.
+But, of course, they have one extra thing that makes them truly smart   a logic board.
+The heart and soul of the phone.
+Because there's a processor to control the digital signals,
+that effectively turns the mobile phone into a mini computer,
+and once you have a mini computer in your hand, well,
+all sorts of things can become possible.
+It becomes a music player, a video player and, crucially,
+a portal to the internet.
+This constant access to information means we're relying less and less on our brains,
+and it appears that we're actually outsourcing our memory.
+And then all you need is some way to control it.
+There's no doubt that the defining feature of the smartphone is the screen.
+There's an awful lot packed into just a few millimetres  
+light emitting diodes, transparent electrodes
+and liquid crystals that rearrange themselves to control the light  
+but the thing that never fails to amaze me is how it responds to your finger.
+The touch screen works by monitoring the electric field on its surface,
+and this is disrupted by an electrical conductor,
+but not ANY electric electrical conductor will work.
+It's trained to recognise the characteristic signature of a human finger.
+Error correcting algorithms ignore anything with a different electrical signal.
+But it's the addition of the camera that really brings the screen to life.
+Of course, this is not just for taking photos.
+It's one of a growing number of sensors that mobile phones are requiring.
+As you can see, the phone knows which way is up. That means it knows which way gravity is.
+It also knows how fast it's turning.
+And that's really quite remarkable, and it's down to two sensors  
+a gyroscope and an accelerometer.
+They may look just like blobs of plastic,
+but inside, they're microelectronic machines with moving parts smaller than the hair on a flea.
+These intricate components vibrate and move,
+and so can sense motion and the force of gravity,
+making the phone, in a sense, aware of itself.
+This is mechanical engineering on a phenomenally small scale.
+Mobile phones have embedded themselves into every aspect of our lives.
+They wake us up in the morning, they tell us where we need to go and how to get there.
+They allow us to communicate globally.
+They become an intimate expression of who we are.
+Yeah, hey! How's it going?
+Tell me, firstly, Mark, I think you've voided your warranty
+by opening it up. Don't go back to the shop with that one.
+We pass on certain duties, certain memory tasks, to it.
+Do we fill the space in our brains with something else, then?
+I think the brain is very busy all the time.
+I don't think we even notice that we don't have to remember these numbers any more.
+But we have to remember that there have been technological innovations
+all the time, and every time, for example,
+when printing came in, there was a huge worry about what that might do to people,
+and what, in fact, print might do to memory.
+It would atrophy, that was the prediction.
+And you could say again, we don't even remember phone numbers any more.
+The important thing about memory is that it we know how to get at it,
+and that's what these phones and these things like Google are so useful for,
+because we can... we know where to look up things,
+and that, of course, needs a lot of learning and a lot of practice.
+So, now it's a different skill. As an academic, are you finding that
+students have different skills now to what we expected?
+I think the mobile phone, the internet,
+these are things that are going to make us much more rich, intellectually.
+  I think it's unarguable, really, and I think they should be welcomed.
+Now, a huge chunk of our brain is taken up with movement.
+In fact, massive parts of the brain,
+not just in getting the legs moving, modelling the space around us
+and making sure we don't fall, and co ordinating us.
+If you're ever wondering about that, next time you're walking,
+in the middle of it go, "Where is my left leg going?"
+Don't do that on the stairs. You will actually fall. That's bad advice to give.
+But there is interesting science around the information coming to our brains from different senses?
+Exactly. We thought we'd do an experiment to sort of test that out.
+  I've got a hand here. It's an artificial rubber hand.
+  A mannequin's hand.
+There's no way you'd think that's your own hand.
+  Of course not.
+  But maybe there is.
+Maybe we could actually fool the brain into thinking that is your own hand
+by some very simple mechanical movements.
+It's remarkable, how you just obstruct someone's sight
+and have a hand that could be yours
+and then start doing the same thing to both, how you can start to feel this alien hand.
+  So, we need a volunteer for this. It could be you or I...
+  We know it's a fake hand.
+  So, I'm going for that guy there.
+  Conveniently wearing a microphone.
+  What can I say?
+  Come here.
+Now, our fake hand has got this shirt on,
+so do you mind wearing a similar shirt?
+  The largest man we found! What's your name?
+  Luke.
+  How are you, Luke? It suits you.
+  It's nice.
+  A good fit.
+  Could be made for you.
+Would you sit down, Luke? As if that is where you'd be sitting,
+  with your hand in front.
+  Yeah.
+  That's it
+  OK, cool.
+  How does that feel?
+  Yeah.
+No, we also have to put this on, so that it feels like a continuous...
+Gotcha, gotcha. Sort of shirt...
+Now, you think this is weird? Watch this.
+I'm going to get on this box and give you a manicure.
+  Have you ever had a manicure?
+  Not professionally, no.
+Well, this is not going to be a first for you.
+It's definitely an unprofessional manicure.
+So, you can see that hand and, in a sense,
+your brain is thinking, perhaps, "That is my hand,"
+because it's in the right place, isn't it?
+Now, that's just your vision,
+but we want to do multi multi multimodal perceptions,
+so we're going to start adding the sense of touch.
+So, if I stroke both fingers at the same time and in the same place
+with the same frequency, your brain is thinking,
+"Hold on. I can see it's perhaps my hand,
+"and I can feel exactly what I should feel."
+The back of the hand is very sensitive, like that.
+I do feel like I want to move it now.
+Really?
+  Did that feel strange?
+  Yeah, really strange. It felt like...
+Yeah. Like I had a really bad dead arm, or something,
+  and I was just trying and trying.
+  Did you...when the hammer came up,
+  did you think...?
+  Yeah.
+I thought, "Oh, God, my hand's squished."
+  That hand there, does the hand flinch in any way?
+  I couldn't see...
+Yeah, it did.
+We have a slow motion, by the way,
+of your reaction to the arrival of the hammer.
+  Cheers.
+  Well done. Thank you very much indeed.
+  Thanks a lot.
+So, someone with an actual limb, you give them a false limb, you give them the impression
+of the false limb, their brain can fill in the gaps.
+But the opposite is also true.
+Exactly. So, phantom limb syndrome, where someone has lost a limb  
+they sometimes feel that their limb is still there.
+But sometimes that's even weirder because it is clenched
+or they're in great pain.
+So in order to get rid of that feeling,
+people use a similar technique with a mirror and a box, so one arm
+is reflecting the other, so you'd perceive yourself as having two hands,
+  and then you can get the other hand to be all flexible and stretch.
+  Stretch?
+  Stretch, yeah.
+Getting our brains to control things remotely, that are not directly
+attached to you, again sounds like the ultimate in science fiction.
+But Dr Helen Czerski has uncovered some new research which is starting
+to make some startling inroads in that direction.
+I'm finding it quite hard to control this robotic arm.
+But a few months ago, a woman called Cathy Hutchinson picked up
+a coffee cup with a robotic arm.
+It was a special event because Cathy is paralysed from the neck down.
+She was controlling the robot arm just with her thoughts.
+This remarkable moment was the result of five years' intense
+collaboration between Cathy and a team of over 40 scientists.
+Our brains are buzzing with electrical activity,
+signals whizzing around all the time.
+They listened in on those signals,
+isolated the ones that are just associated with moving one hand,
+and then used those signals to control an external device.
+'Leigh Hochberg, who led the research, is going to show me how it all works,
+'starting with a brain on loan from the medical school.'
+  Oh, it's got stuff at the bottom!
+  It does.
+This stuff would be the spinal cord.
+'If you have a stroke, it can disrupt the connections between your
+'motor cortex and your spinal cord, leaving you paralysed.'
+'But remarkably, when we imagine moving, we still generate
+'signals in our motor cortex that can be detected with electrodes.'
+So, tell me what this is.
+This is the BrainGate implant that we've been
+using in our clinical trials.
+If you squint your eyes, there's 100 tiny electrodes,
+each of which is a millimetre or 1.5 millimetres long.
+It would be placed essentially right on the motor cortex,
+right about there, and then the cells of interest are somewhere
+between a millimetre and 1.5 millilitres deep inside the brain.
+Soon after the implant was placed in Cathy's brain,
+Leigh's team recorded this signal from a single neuron.
+It is the sound Cathy's thoughts as she imagines moving her hand.
+Open your hand.
+Relax.
+  You can hear it firing away, that rat tat tat tat.
+  That crackling.
+That staccato crackling, like an old AM radio.
+That's the language of the nervous system.
+It's how neurons talk to neurons,
+it's how neurons talk to muscle,
+and that's the language that we're trying to decode.
+'It took a long time, but gradually the team learned to recognise Cathy's
+'different brain signals as she imagined moving her hand in different directions...
+'until they were finally able to use them to drive the robotic arm.'
+  How did you feel when that happened?
+  It was an amazing moment for her,
+it was an amazing moment for all of us on the research team,
+and it suggested that we're on our way towards developing
+a technology that would allow somebody with paralysis
+to regain some of that mobility and independence that they'd lost.
+'While Leigh and his team are decoding the brain
+'signals from the motor cortex, another group of scientists
+'are beginning to tune into the very heart of human consciousness.
+'They are trying to isolate the brain signals of speech and thought.
+'But tuning into our brain's language centres isn't easy.'
+If you're squeamish,
+it might be a good idea to look away for the next few moments.
+This is footage of an epileptic patient having life saving surgery.
+'You can see a sheet of electrodes being placed over the surface of their brain.'
+The surgeons use these electrodes to locate the source of epileptic
+seizures, but this unusual access to the brain also is an enormous
+window of opportunity for research.
+Because it brings the otherwise inaccessible language centres
+of the brain within our reach.
+Here in St Louis, Missouri, brain surgeon Eric Leuthardt has been using
+this system to tune into the most basic building blocks of language   phonemes.
+A phoneme is a unit of spoken sound like "ah" or "ooh".
+Eric asks the participants in the trial to speak those sounds
+out loud so that he could monitor which areas of the brain were active when they were spoken.
+He also asked them to imagine the sounds,
+and what he found was really interesting.
+Thinking of words before you speak
+happens in a different part of the brain than actually speaking them out loud.
+Eric and his colleagues managed to isolate signals from both areas.
+It was the first time anyone has ever tuned into our unspoken, inner voice.
+To demonstrate it, he taught his computers to recognise
+the brain signals and use them to move a cursor.
+Here is a video of the patient,
+who has her electrodes implanted over the surface of her brain.
+Now, what she's doing is, she's saying, "Ooh, ooh, ooh,"
+or, "Ah, ah, ah."
+Essentially, each time she says, "Ooh,"
+it moves the cursor in one direction, just a little bit.
+And each time she says, "Ah," it moves in the opposite direction.
+So she really has to use her speech intention to get the cursor
+to go to the target.
+Here you can see she's imagining "ooh" and "ah" to control the cursor.
+  So no sound is coming out of her mouth?
+  She's not saying anything.
+This is purely based on her inner voice.
+'The computer is effectively reading her thoughts.'
+So do you feel that you're one step closer to being able to mind read?
+Well, yes.
+I think that again, as a scientist,
+you always have to be cautious about what you can promise.
+But it does provide some of the early demonstration that
+we can start to capture some things that more closely approximate
+what it is to make up human thoughts.
+  That's incredible stuff.
+  Just astonishing.
+It's astonishing.
+Whatever about seeing the brain's reaction of being able to
+measure as they actually said it, even thinking about saying
+"ah" and "ooh" is enough to create the same reaction in the brain?
+Yeah, so, what they did was very clever.
+They showed her an arm moving
+and made her imagine that she was doing it and then
+they looked at the signals and then gradually they gave her the control.
+So they learned from her and she learned to control the arm.
+I am completely amazed at this film.
+I think it's really, really interesting, particularly
+that it's not just about having a specific movement
+or a specific sound that is made,
+but imagining the movement, imagining the sound.
+What kind of conditions is this going to help you with?
+Amputees, people with locked in syndrome, people with strokes?
+So the first thought is obviously people who've been injured in some way,
+and the most serious injuries come to mind, first,
+so locked in syndrome is one, amputees, paralysis, lots of things.
+But then Eric, certainly the second brain surgeon, is completely
+convinced that this will become normal for healthy people,
+because machines can do a lot of things we can't.
+They can go to places that are colder or have conditions that
+we can't go to, or they're on other planets.
+But we have... Humans are amazing at pattern recognition and
+at solving problems, but if you have direct control, we could go there.
+  We could use this for space exploration or for mining or for surgery?
+  Anything.
+  Anything at all.
+That's fantastic. Still to come   Jessica Hynes goes on a journey
+into her own brain, and Alok Jha asks if we should be using smart drugs.
+You can get more information
+by going to the website or following us.
+Details are on your screen now.
+OK, but first, our brains are also responsible for our personalities.
+That's the location of our personality.
+I want to bring in our resident neuroscientist, Tali Sharot.
+Tali, thank you very much.
+Tali, you're currently in your own research investigating
+one aspect of personality. Which is that?
+Well, one thing that we're looking at is optimism.
+So that's our tendency to expect positive events in the future.
+But what's really interesting is that most of us
+have what is known as an optimism bias, or unrealistic optimism,
+which means that we tend to overestimate
+the likelihood of experiencing good events in our lives,
+such as longevity or professional success, and we underestimate
+the likelihood of experiencing negative events in our lives.
+A lot of people will say, "I'm a realist, I'm a little bit of a pessimist."
+So we're not aware of our own optimism.
+It is a bit of a trick that our brain plays on us.
+Are there any sample questions we can ask?
+We can try it here. Let's see.
+OK, so, who here believes that if and when they get married,
+they will get divorced? Just put your hands up.
+  And the divorce rate is?
+Divorce rate in the Western world is between 40% and 50%.
+I would say, what, 5% of our audience.
+Very few people get married going, "Ah, I'll probably give this five years."
+Exactly. People who get married... There was a survey...
+Newlyweds estimate their own likelihood of divorce at 0%.
+Even people who should know better, like divorce lawyers,
+they estimate their own divorce rates as about 0% as well.
+Let's do another one.
+This time, think about how well you get along with other people, OK, relative to the population.
+So, who believes they're at the bottom 25% of getting
+along well with others?
+Bottom 25. So we have one person, two, maybe three people.
+Bottom 50%?
+Not many. Top 50% for getting along well with others?
+Right, that's about 90% of the population.
+So 90% of the population think they're in the top 50% of the population?
+Well, actually, in an actual survey, they found
+that 25% of the population believe they are at the top 1%
+That's known as a superiority illusion,
+which means that we tend to think that we're better than most
+other people and we're better than what we actually are.
+Now, you've been studying this for a number of years, I know,
+and you set tests for this,
+not only on our studio audience, but on the team here as well.
+Yeah, so we put together an experiment
+and I think we're going to show you the results in a little bit.
+Fantastic. Now, we've also talked, by the way, about memory.
+We've touched on memory a couple of times.
+Memory's very interesting as well because it's not like there's
+one store for memory, essentially, is there?
+Well, there are many different kinds of memory.
+The memory that you will call on when I ask you what you
+had for breakfast this morning is completely different from
+the memory that's where, for example,
+when I ask you, "What is the capital of Mongolia?"
+We have spatial memory, which is very different, visual memory,
+auditory memory   all sorts of memories.
+Long term memory, short term memory...
+Should people be really insulted by the fact that I can't remember their names?
+  Because I really am bad with names.
+  Some people can't remember faces.
+I'm also bad with faces.
+I'm sure you have ways of glossing over this.
+  I do, I do. I am tremendously charming.
+  We all do.
+This is why people, in order to remember,
+recommend a special method, which is quite interesting.
+It's like wandering through a space, through a house.
+You walk through a house you are familiar with.
+Yeah, and that seems to work.
+  That's a trick that will increase all your memory.
+  Very good, OK.
+Actors obviously use their memory constantly,
+with new scripts for show after show.
+We send Twenty Twelve actor Jessica Hynes to find out
+what effect this was having on her brain.
+I'm on my way to a cognition and brain sciences unit,
+where I'm going to meet some scientists who study the brain.
+They do this by actually looking inside the brain
+and then studying the brain's responses to controlled stimuli.
+I can't think of a better way to spend an afternoon.
+Scientists here are trying to measure how effectively humans
+can control their consciousness.
+Michael Anderson and Roland Benoit plan to use MRI scanning
+to watch how effectively I can do that in a memory test.
+But first, they say they need to train me.
+No press ups involved, I hope.
+Vice.
+Hero.
+In the very beginning, she's provided with a set of word pairs,
+and she's trained to provide the second of the two words
+on the right hand side
+whenever she's given the word on the left hand side.
+So if I see the word "vault", I have to think of the word "gold".
+Hexagon.
+Parent.
+And she's drilled until she knows these pairs really well.
+I'm really looking forward to having a picture of my brain.
+'Michael and Roland also want a picture of my brain,
+'using their MRI scanner.'
+But this is no mere memory test.
+First, they'll watch what parts of my brain are active
+when I remember a word pair.
+But then they'll look for a difference
+when I'm instructed not to think of a pair.
+When a reminder pops up in green,
+like it's happening right now,
+that's her instruction, "Go,"
+to think about a memory that goes with that.
+However, when a reminder appears in red, such as this one,
+that's her instruction to stop,
+to prevent the associated memory from entering consciousness, even for a second.
+Good on the first red, and then, just as it went off the screen,
+the associated word just popped into my head.
+Please do your very best, yeah, OK?
+When Jessica is trying to keep something out of consciousness,
+whatever part of the brain it is that is doing that will have
+to work harder.
+When it's working harder, the blood flow increases
+and that's what we can see.
+As the experiment progresses,
+you just work out ways of blocking it out.
+And the more you think about the red word,
+the easier it is to actively forget the associated word.
+What we're looking at here is a slightly creepy
+three dimensional rendering of your actual skull.
+I like the wood look.
+Yes, this would be what it would look like
+if you had a wood sculpture of your head.
+  A wooden head.
+  Yes.
+On the periphery here, it's slightly darker grey.
+  Is that a problem?
+  No! It's perfectly normal.
+  Good. I was just asking.
+  That is your grey matter.
+On the inside is the white matter, literally, fat.
+So it takes £1 million worth of Cambridge's finest scanning
+equipment to tell me that I have a wooden head filled with fat.
+I'll give Michael a while longer to process my results.
+In the meantime, his colleague James Rowe can show me
+where memories are in the human brain.
+This is about the right size and weight of a human brain.
+It's not a human brain. It's made from wood, but it's about the right size and shape.
+Even I could have told you that...
+'Wood effect is obviously very popular.'
+If we look here at this model, this is a plastic model of the brain.
+It's slightly larger than a real brain.
+But it's inside here, we see where the hippocampus lies,
+which is critical for those long term memories.
+But it is in constant communication, or conversation,
+between the hippocampus and the frontal lobe.
+And the retrieval which comes with this conversation
+between different memory areas is very precisely tuned.
+It's very exact in what you want to call in mind and when you want it.
+  And it doesn't take much to make that inefficient.
+  About four pints?
+Less than four pints, in my case. You may be better trained than I am.
+So, what about me?
+Could I control what I chose to remember and what I chose to forget?
+So this is the proportion of the words that you recalled correctly
+in the controlled condition, which you did fantastically well, by the way.
+95% correct. Very good memory.
+Nice tie.
+Thanks!
+The ones that you tried to keep out of consciousness,
+you were successful at blocking out some of the memories.
+In fact, I would say you're better than average.
+That was such an interesting day.
+I'm going to go and now spend a bit of attention on my basal ganglia
+and my ventral striatum.
+Ladies and gentlemen, Jessica Hynes.
+Hi, very nice to meet you.
+How are you?
+You looked quite sheepish there, but you did way better than average.
+He said that I was about 16% effective,
+and he said the average person is about 8% effective.
+So I was about twice as effective as the average person.
+  Why, do you think?
+  It was interesting.
+He asked me and I sort of was going to say,
+"Maybe you could tell me. I don't know. You're the scientist."
+The only thing I could think of was whether there was a relationship
+between the type of work you mentioned, you know, learning lines.
+But I think it's beyond learning lines
+in terms of actually memory recall.
+I think there's a part of performance and creativity
+which is as much about suppression as it is about remembering.
+If you're trying to create a reality with another actor,
+very effectively and powerfully,
+what you want to do is suppress the real reality.
+  Who they actually are.
+  And who you are as well.
+So I did wonder whether there was some connection there.
+  Does that make sense?
+  Yes, it does. Absolutely.
+An act of creative doublethink,
+that you can keep both realities compartmentalised?
+Yes, that, certainly. But there has to be this huge control...
+And they did talk about control,
+and a large part of the human brain is exactly about control,
+you know, switching on, switching off, doing very subtle things.
+This bit can be trained.
+The idea of suppressing memories would be useful
+to post traumatic stress cases?
+I think the idea of wiping out certain memories is fascinating.
+But I think there might be more bad effects than good effects.
+Surely if we could just wipe out...
+I have facts about Kim Kardashian in my head that are no use to me...
+  Images.
+  Images, all of this.
+I have a dossier about this woman in my head.
+You never know how this will come in useful.
+The stuff of the brain is similar in all animals.
+But the ratio of different sections differ
+depending on the environment they have adapted to.
+For example, human brains put a lot of effort into understanding and using language,
+but it is not the same for all animals. Here is some data.
+You live inside your brain, 77% of which is water,
+8% protein and 12% fat. The rest is a mixture of carbohydrates,
+soluble organics and salts.
+What is it that makes us so smart? Is it the size?
+The biggest brain on the planet belongs to the sperm whale, at 7kg.
+But a dolphin's weighs in at 1.6kg.
+The elephant's brain averages 4.7. The average human's weighs about 1.4.
+Interestingly, Einstein was a lightweight.
+His brain weighed only 1.2kg.
+Clearly, size isn't everything.
+Scientists have compared an animal's weight to the size of their brains.
+This is what is called the EQ. A rabbit has an EQ of 0.4.
+A cat has an EQ of 1. A dog, 1.2. The elephant has an EQ of 2.
+A dolphin of 4.1.
+Our kissing cousins, the Neanderthals, come in with 4.7.
+And we humans have an EQ of a whopping 7.
+However, this overlooks how much of the brain is actually used for thinking.
+More recently, scientists have begun to count neurons.
+A leech has about 10,000. A cockroach, 1 million.
+A cat has 1 billion. A chimp has close to 7 billion brain cells.
+And you? Most recently, it has been calculated that we humans
+have 86 billion neurons firing in concert.
+This is the brain.
+It uses 20% of the oxygen in our bodies and yet accounts for only
+2% of our weight, which is something worth thinking about.
+Anyway... Right, we have a number of brains here.
+We are presuming that they are from adult animals. There are similarities.
+There are many similarities.
+They all have these two hemispheres
+and they have this folded sheet.
+Yes, why?
+We have a sheet here to fold. Actually the human brain, if you stretched it out flat, the cortex...
+  This is the outer bit.
+  The outer bit, yes.
+It would be about that big.
+All these folds would be that large. The volume of the human brain, if you took the surface
+  and it was smooth, would be that big.
+  That's right.
+  But because it is all folded...
+All folded in valleys and ridges
+and it sort of goes altogether, like this.
+It is a great evolutionary trait because that allows you to have more activity into a small area.
+Absolutely.
+The increase of abilities is often associated with these structures.
+That means that this limited area of contact with the core is
+suddenly magnified.
+It is a brilliant way of getting around the fact that you
+cannot really get a massive head, or it's not so great to have a massive head.
+We do have a picture   I think we have used me for this   of what I look like
+and what I would look like if we had to have the same volume.
+  What is that?
+  That is a fresh calf's brain.
+Those people wondering whether the brain is hardware or software,
+let me tell you it is soft.
+It is kind of amazing to hold in your hand.
+There's 12% fat in it
+and actually, if you take out the water, it's more than 50% of the matter.
+The important thing is that when you put a brain in a blender...
+You are not really going to do this, are you?
+  You are not really going to do this?
+  You can discover where that fat is.
+I don't want to know. Oh!
+Oh! Oh!
+Now we have moulded the blood and the fat and protein, you might
+  think that would be a delicious thing to eat now.
+  I would not.
+We can look at what the constituents of this thing are. That is what it is.
+If we add one of our other favourite...
+Our favourite.
+It is almost neat alcohol. This is a very strong vodka.
+  We use this for everything.
+  And then we mix this up.
+The fat is going to start dissolving in that alcohol.
+It will leave behind things like the protein mass and the other constituents in there.
+You can see it kind of changing. I am mixing it around.
+It is difficult to get this kind of technique going.
+It looks easy.
+If I gave this spoon to you, Dara...
+With my lack of training, yeah!
+Now, if we are right, the fat should have
+dissolved into this alcohol layer.
+We can separate that off by putting it through a filter.
+  We are taking all the protein out.
+  That has all been left in there.
+What we should be left with is a solution which is mostly alcohol
+with some dissolved fats in it and a few other things.
+  How do we show that? It looks clear.
+  I know it looks like that.
+You could take my word for it, or we can get the fat to come out of solution by adding water.
+Fat doesn't dissolve very well in water, it sort of floats.
+This should go cloudy. There it goes.
+That is a little emulsion of fat globules from that brain.
+In case you were wondering where all the fat is   there it is.
+It is the so called white matter in the brain. It is white because of the fat.
+But it's sheath around nerve fibres
+and the more of these sheaths you have, the better the conduction is
+of the speed of the signals.
+This is the fat that sheaths the neurons, allows you to think fast
+and watch this television programme.
+Thank you very, very much.
+We are covering a mind boggling range of topics on tonight's show.
+If you have any questions about the brain,
+we have our after hours Science Club starting at the end of the show
+where a top neuroscientist will be waiting for your questions.
+We are at our Hall of Fame. Is there anything you want to add to this?
+Yes. My hero is Hermann von Helmholtz.
+  Here he is.
+  He was a physicist. He was involved in thermodynamics.
+He was an incredibly well known physicist in the 19th century.
+He was a polymath.
+What is less well known is that he was also a neuroscientist.
+And he made some stunning discoveries.
+So he was actually able to measure the speed of conduction in a nerve.
+The other thing I like about his neuroscience is that he
+discovered, he invented the idea, of unconscious influences.
+He actually invented the deep cognitive unconscious
+well before Freud.
+  Wow, that's very good.
+  That is why I want him to be recognised.
+I'm going to add a few people to this.
+Every week, I jokingly mention people who have made silly contributions to it,
+but there are people constantly on Twitter, Facebook and the website,
+about people who they think should join the canon, as it were.
+Ernest Rutherford gets a lot of votes from people  
+the father of nuclear physics, in the Cavendish lab in Cambridge,
+discovered the enormous amount of space within it.
+Nikola Tesla, because they think that Edison did him down.
+He invented alternating current. Edison invented direct current,
+and Edison had 1,000 patents to his 100 patents.
+He is some sort of geek nerd hero.
+And a woman who doesn't... Rosalind Franklin.
+Great.
+Who published a paper on the structure of DNA in
+the same edition of Nature as Watson and Crick, and a lot of people feel
+she does not get the credit she deserves for her part in that.
+It is also a lot about this sort of non visibility of female scientists.
+It is important.
+The human brain has approximately 86 billion neurons
+but are yours working to full capacity?
+So called smart drugs and medicines were developed for the treatment
+of mental health conditions,
+but now they are available to buy on the internet.
+Alok Jha reports on what could become a modern dilemma.
+If you look on the internet, you will find loads of examples
+of people who take smart drugs, writing about their experiences.
+I have got some of them here. "I went from a C average student to an A plus.
+"I wrote 2,000 words in an hour and a half." "My senses are sharper.
+"My work is much faster."
+I am always putting things off, dreading the big pieces of work that I have to do.
+If these drugs could help me out on that, I mean,
+I am really tempted to try one.
+So called smart drugs cover a variety of prescription medicines
+originally developed to treat a range of brain disorders.
+Neuro psychologist Mitul Mehta
+studies the different effects they have on the brain.
+If you think about cognitive enhancers, neurotrophics or psychostimulants,
+these are all terms that you might hear in relation to smart drugs.
+But they really refer to drugs that are designed to treat people
+with cognitive impairments such as Alzheimer's disease,
+patients with schizophrenia, patients with attention deficit disorder,
+traumatic brain injury.
+What are these drugs doing in the brains of people who are healthy?
+It might enhance information flow in certain brain systems,
+stabilising neutral activity, and this is one way
+we think psychostimulants might work in the frontal lobes of the brain.
+Another way they might work is by enhancing the signal to noise ratio,
+so making the signals a bit clearer in the brain.
+I did not realise it, but the use of smart drugs is allegedly quite widespread in the world of academia.
+Anders Sandberg is a philosopher who studies smart drugs.
+  Often under their influence.
+  My main cognitive enhancer is caffeine.
+But I do use modafinil, a prescription drug
+originally intended for narcolepsy,
+but I am using it for alertness and sharpening in my thinking.
+What should people be wary of before taking something like that?
+The cognitive enhancer, many of them are stimulants,
+and of course stimulants tend to raise your blood pressure,
+improve metabolism and exhaust you.
+But also, you can think about memory enhancers.
+They affect memory systems. You might learn a little bit too much.
+You can go a little bit obsessive. There are always trade offs.
+You need to figure out the right drug for the right task.
+In sports performance, enhancing drugs are banned
+as we want athletes to compete au naturel.
+It is the same with exams.
+Schools and universities want to test your natural ability
+so, in that context, taking any smart drugs is cheating.
+At Cambridge University, Barbara Sahakian
+is looking at the wider social issues surrounding smart drugs.
+I have discussed it with student groups and some of them
+feel they are being coerced into using them.
+They know that other students are using them to get an advantage.
+But outside of competitive cleverness...
+Do you think that these drugs could help us have a better and more productive society?
+First of all, we obviously need to have the safety information,
+long term safety information.
+But when you consider that we do have an ageing population
+and people want to stay at work better,
+want to function in their own homes for longer
+and not go into institutionalised care,
+we may well find that this is very good.
+We may also find that people are making faster discoveries and inventions.
+So smart drugs could help us be mentally sharper,
+boost concentration and stay focused.
+If we were all taking them,
+then society as a whole might even benefit,
+and as we are all living longer,
+smart drugs could help keep us mentally competitive in old age.
+So would I take them?
+I have got a lot of work on and lots of deadlines to meet,
+so I think anything that could help me along with that,
+I would be well up for it.
+  Are you on drugs right now?
+  Before you say that... No, I'm not.
+Why are you not on drugs right now?
+I did mean that at the end, that I am tempted by it,
+because Barbara Sahakian, who you saw there, has published something recently where
+she has indicated that one of the drugs we talked about, modafinil, a drug for narcolepsy,
+it's been tested for that, it's safe for that, but that drug
+can make you focus on something you might not find too interesting.
+You can focus on it for several hours, get the job out of the way.
+There are loads of things where you just want to get something out of the way. You procrastinate.
+There is something important to be said about all this.
+These drugs are not illegal, but we do not know how safe they are.
+You have to be quite careful when thinking about what to do in terms of taking them.
+You can't just jump in and take them yourself.
+Fine. I can understand the ethical debate about, we don't want some students
+who are on smart drugs to be competing with those who are not.
+  But in everyday life, I wouldn't mind my air traffic controller being...
+  On drugs?
+On drugs. On the drugs that will make them
+better at that kind of shape recognition.
+A surgeon or whatever...
+It sounds great until they are forced to do that,
+so what if you have a situation where lots of surgeons are doing it and
+then the hospital says, "If you want to be a surgeon,
+"you have to take these drugs?" That is more dodgy.
+There is the question of exams.
+You may want to keep everyone on the same level. It is fairer that way
+because what if, in the future,
+this stuff is available and only the rich people can afford it
+so they become cleverer or whatever else?
+But what would you have?
+Would you have a drug testing lab at the start of every exam?
+  A little fingerprinting pinprick or something like that.
+  Everyone has to pee into a cup before they...
+That is the future. A little pinprick to see whether you're on...
+Depending on how many buckets they have taken from the exam room.
+There are so many enhancing things that you can do
+that cost nothing at all.
+For example, exercise is really good for the brain.
+For example, sleeping is very good for the brain.
+You're doing all these things... and fairly and easier.
+Banging on about exercise.
+  Like that's the answer to anything.
+  ..You have a very good diet.
+Stop it. We are not dealing in science fiction here(!)
+Diet, exercise and sleep(!)
+We're going to scan across the room.
+How many of you would take smart drugs?
+About 60% of the room.
+How many would approve of other people taking smart drugs?
+That's interesting. Different people raised their hands there.
+Earlier, Tali told us about her work on optimism.
+We're going to bring her back in. Tell us about the results.
+It is assessing a predetermined bias towards optimism in people.
+The puzzle was, how do we maintain these positive expectations,
+because we get information that is discouraging all the time?
+Our process was that
+we must learn more from good news than from bad news.
+So we go throughout life learning more from positive information than
+negative information, that will create this biased view of the world.
+  So we put together a study.
+  You tested all of our reporters.
+Helen, Mark and Alok are there. All three of them did this.
+  Were the results normal?
+  Two of them look normal.
+We can show it on screen now.
+We have two normal individuals on the left. I say normal, you know!
+They act like normal individuals, learn more from good than bad.
+The candidate for the magnetic hat is M3.
+This doesn't mean anything.
+80% of the people show the effect, 20% don't. Not all 20% are depressed.
+There's not anything wrong with them.
+If I had to choose which one of the three
+was most likely for the bad news,
+would it be the happy smiling one who has done the experiments,
+the one who has been all round the world
+looking at different treatments, or the one who wanted pandas to die?
+  And who's sat here.
+  I know. Is that Alok?
+I thought the same thing when I saw it.
+Maybe it was a panda dying.
+In fact, it was the guy who blended a dog's brain a few minutes ago.
+  With the flowery shirts and the cheery demeanour?
+  Yeah.
+  That is Mark.
+I'm an emotionally scarred individual, that's clear, as you can see.
+I don't think your flowery shirts are hiding anything any more.
+We want to thank all our guests. As ever, our reporters  
+our special guest Jessica Hynes,
+and our science guru Uta Frith, ladies and gentlemen.
+There is so much we have learned.
+We have learned how to move things with our minds, that you can
+disguise a fair amount of depression
+using only a flowery shirt and some Polish vodka,
+and we've learned that Alok Jha is on smart drugs.
+But I am naturally optimistic and I think he is going to beat it.
+That is all from us tonight on Science Club. We will see you again. Good night.
